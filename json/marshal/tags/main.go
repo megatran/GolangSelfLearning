@@ -24,4 +24,4 @@ The json package can look at the tags for the field and be told how to map json 
 
 Basically, any package can use reflection on the fields to look at tag values and act on those values. There is a little more info about them in the reflect package
 http://golang.org/pkg/reflect/#StructTag :
- */
+*/

@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 	x := 0
-	increment := func () int {
+	increment := func() int {
 		x++
 		return x
 	}
@@ -20,4 +20,4 @@ that variable would need to be package scope
 anonymous function: a function without name
 
 func expression: assigning a func to a variable
- */
+*/

@@ -9,7 +9,7 @@ func zero(z *int) {
 func main() {
 	x := 5
 	fmt.Printf("%p\n", &x) //address in main
-	fmt.Println(&x) // address in main
+	fmt.Println(&x)        // address in main
 	zero(&x)
 	fmt.Println(x)
 }
