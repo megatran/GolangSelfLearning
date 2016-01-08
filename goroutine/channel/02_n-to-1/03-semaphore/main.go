@@ -33,4 +33,4 @@ func main() {
 
 /*
 A semaphore is a way to lock a resource so that it is guaranteed that while a piece of code is executed, only this piece of code has access to that resource. This keeps two threads from concurrently accessing a resource, which can cause problems.
- */
+*/
